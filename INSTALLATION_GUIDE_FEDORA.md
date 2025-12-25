@@ -45,7 +45,7 @@ First, ensure you have `git` installed to clone the project repository.
 
 ```bash
 sudo dnf install -y git
-git clone [YOUR_GITHUB_REPO_URL_HERE]
+git clone https://github.com/brodev-full-stack/metro_lms_web.git
 cd metro_lms_web
 ```
 
