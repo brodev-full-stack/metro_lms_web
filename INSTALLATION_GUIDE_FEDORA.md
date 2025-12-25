@@ -90,4 +90,4 @@ For a production environment, you must first build the client and server code, a
     This command starts the compiled Express server, which will serve the built client application. The application will typically be accessible at `http://localhost:3000` (or the port configured in the server's `index.ts`).
 
 ---
-*Document prepared by Manus AI.*
+
